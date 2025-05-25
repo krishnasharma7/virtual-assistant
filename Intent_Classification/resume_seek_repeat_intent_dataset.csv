@@ -1,0 +1,151 @@
+Command,Intent
+Continue the song,Resume_Playing_Spotify
+Play from pause,Resume_Playing_Spotify
+Restart the song,Resume_Playing_Spotify
+Unpause song,Resume_Playing_Spotify
+Unpause song,Resume_Playing_Spotify
+Start playing again,Resume_Playing_Spotify
+Play the audio,Resume_Playing_Spotify
+Play from the point it stopped,Resume_Playing_Spotify
+Resume the music,Resume_Playing_Spotify
+Continue audio,Resume_Playing_Spotify
+Resume the song,Resume_Playing_Spotify
+Unpause playback,Resume_Playing_Spotify
+Continue audio,Resume_Playing_Spotify
+Continue playing from the break,Resume_Playing_Spotify
+Continue the song,Resume_Playing_Spotify
+Resume audio,Resume_Playing_Spotify
+Restart the music,Resume_Playing_Spotify
+Play again,Resume_Playing_Spotify
+Resume the beat,Resume_Playing_Spotify
+Start playing,Resume_Playing_Spotify
+Play from before,Resume_Playing_Spotify
+Resume track,Resume_Playing_Spotify
+Restart playback,Resume_Playing_Spotify
+Restart playback,Resume_Playing_Spotify
+Unpause playback,Resume_Playing_Spotify
+Start playing again,Resume_Playing_Spotify
+Start playing the music,Resume_Playing_Spotify
+Continue playing,Resume_Playing_Spotify
+Restart playback,Resume_Playing_Spotify
+Resume now,Resume_Playing_Spotify
+Resume this song,Resume_Playing_Spotify
+Play from pause,Resume_Playing_Spotify
+Unpause playback,Resume_Playing_Spotify
+Play again,Resume_Playing_Spotify
+Resume streaming,Resume_Playing_Spotify
+Continue the music,Resume_Playing_Spotify
+Resume this,Resume_Playing_Spotify
+Resume the beat,Resume_Playing_Spotify
+Continue the song,Resume_Playing_Spotify
+Pick up the track,Resume_Playing_Spotify
+Play it again,Resume_Playing_Spotify
+Resume streaming,Resume_Playing_Spotify
+Resume the playlist,Resume_Playing_Spotify
+Pick up the music,Resume_Playing_Spotify
+Play again,Resume_Playing_Spotify
+Unpause the music,Resume_Playing_Spotify
+Pick up the music,Resume_Playing_Spotify
+Continue the track,Resume_Playing_Spotify
+Start playing,Resume_Playing_Spotify
+Resume Spotify,Resume_Playing_Spotify
+Play the last song,Seek_Song_Spotify
+Rewind to the earlier track,Seek_Song_Spotify
+Go back one,Seek_Song_Spotify
+Rewind to the last track,Seek_Song_Spotify
+Return to the previous track,Seek_Song_Spotify
+Go back one,Seek_Song_Spotify
+Previous track,Seek_Song_Spotify
+Rewind one music,Seek_Song_Spotify
+Previous track,Seek_Song_Spotify
+Play from previous song,Seek_Song_Spotify
+Rewind to the previous song,Seek_Song_Spotify
+Go back in music,Seek_Song_Spotify
+Play the previous track,Seek_Song_Spotify
+Seek the previous track,Seek_Song_Spotify
+Seek back,Seek_Song_Spotify
+Go to the last song,Seek_Song_Spotify
+Skip to last song,Seek_Song_Spotify
+Go to the last song,Seek_Song_Spotify
+Rewind to the earlier track,Seek_Song_Spotify
+Rewind this playlist,Seek_Song_Spotify
+Back to the last track,Seek_Song_Spotify
+Rewind to the earlier track,Seek_Song_Spotify
+Play the earlier track,Seek_Song_Spotify
+Go back a track,Seek_Song_Spotify
+Back to earlier music,Seek_Song_Spotify
+Play the last song,Seek_Song_Spotify
+Seek last track,Seek_Song_Spotify
+Rewind to last song,Seek_Song_Spotify
+Return to the previous track,Seek_Song_Spotify
+Back to earlier music,Seek_Song_Spotify
+Rewind to the last track,Seek_Song_Spotify
+Rewind one track,Seek_Song_Spotify
+Go back to the last song,Seek_Song_Spotify
+Return to the previous track,Seek_Song_Spotify
+Go to older track,Seek_Song_Spotify
+Backtrack to the last song,Seek_Song_Spotify
+Previous track,Seek_Song_Spotify
+Previous track please,Seek_Song_Spotify
+Play the last music,Seek_Song_Spotify
+Go back to last song,Seek_Song_Spotify
+Go to the last song,Seek_Song_Spotify
+Go to previous playlist song,Seek_Song_Spotify
+Play from previous song,Seek_Song_Spotify
+Backtrack to the last song,Seek_Song_Spotify
+Seek previous song,Seek_Song_Spotify
+Go to previous music,Seek_Song_Spotify
+Play the earlier track,Seek_Song_Spotify
+Previous track,Seek_Song_Spotify
+Play the last song,Seek_Song_Spotify
+Seek the previous track,Seek_Song_Spotify
+Repeat this music,Repeat_Track_Spotify
+Play the track on loop,Repeat_Track_Spotify
+Play the song on repeat,Repeat_Track_Spotify
+Replay the music,Repeat_Track_Spotify
+Play the song on repeat,Repeat_Track_Spotify
+Replay this track,Repeat_Track_Spotify
+Replay that music,Repeat_Track_Spotify
+Replay the tunes,Repeat_Track_Spotify
+Repeat this audio,Repeat_Track_Spotify
+Loop this song,Repeat_Track_Spotify
+Loop music,Repeat_Track_Spotify
+Replay the music,Repeat_Track_Spotify
+Play the song again,Repeat_Track_Spotify
+Replay this again,Repeat_Track_Spotify
+Play that again,Repeat_Track_Spotify
+Loop that track,Repeat_Track_Spotify
+Repeat it,Repeat_Track_Spotify
+Loop this song,Repeat_Track_Spotify
+Put the song on repeat,Repeat_Track_Spotify
+Loop track,Repeat_Track_Spotify
+Repeat this music,Repeat_Track_Spotify
+Put it on repeat,Repeat_Track_Spotify
+Play on loop,Repeat_Track_Spotify
+Play that again,Repeat_Track_Spotify
+Play music again,Repeat_Track_Spotify
+Repeat it,Repeat_Track_Spotify
+Play the song again,Repeat_Track_Spotify
+Replay the tunes,Repeat_Track_Spotify
+Put the music on repeat,Repeat_Track_Spotify
+Loop again,Repeat_Track_Spotify
+Repeat the music,Repeat_Track_Spotify
+Loop track,Repeat_Track_Spotify
+Repeat again,Repeat_Track_Spotify
+Play the song on repeat,Repeat_Track_Spotify
+Loop again,Repeat_Track_Spotify
+Play the track again,Repeat_Track_Spotify
+Play this on loop,Repeat_Track_Spotify
+Replay this track,Repeat_Track_Spotify
+Repeat this track,Repeat_Track_Spotify
+Play music again,Repeat_Track_Spotify
+Play again,Repeat_Track_Spotify
+Repeat the track,Repeat_Track_Spotify
+Replay the song,Repeat_Track_Spotify
+Loop song,Repeat_Track_Spotify
+Replay the song,Repeat_Track_Spotify
+Play the song on repeat,Repeat_Track_Spotify
+Play the track on loop,Repeat_Track_Spotify
+Repeat the song,Repeat_Track_Spotify
+Repeat that track,Repeat_Track_Spotify
+Loop this again,Repeat_Track_Spotify
